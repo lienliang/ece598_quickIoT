@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/eli9/Desktop/ECE598_Simulation/modules/PIM.cpp" "/home/eli9/Desktop/ECE598_Simulation/cmake-build-debug/CMakeFiles/test.dir/modules/PIM.cpp.o"
-  "/home/eli9/Desktop/ECE598_Simulation/modules/bus_interface.cpp" "/home/eli9/Desktop/ECE598_Simulation/cmake-build-debug/CMakeFiles/test.dir/modules/bus_interface.cpp.o"
-  "/home/eli9/Desktop/ECE598_Simulation/modules/host_cpu.cpp" "/home/eli9/Desktop/ECE598_Simulation/cmake-build-debug/CMakeFiles/test.dir/modules/host_cpu.cpp.o"
-  "/home/eli9/Desktop/ECE598_Simulation/modules/sensors.cpp" "/home/eli9/Desktop/ECE598_Simulation/cmake-build-debug/CMakeFiles/test.dir/modules/sensors.cpp.o"
-  "/home/eli9/Desktop/ECE598_Simulation/simulation.cpp" "/home/eli9/Desktop/ECE598_Simulation/cmake-build-debug/CMakeFiles/test.dir/simulation.cpp.o"
+  "/home/eli9/Desktop/ece598_quickIoT/modules/PIM.cpp" "/home/eli9/Desktop/ece598_quickIoT/cmake-build-debug/CMakeFiles/test.dir/modules/PIM.cpp.o"
+  "/home/eli9/Desktop/ece598_quickIoT/modules/bus_interface.cpp" "/home/eli9/Desktop/ece598_quickIoT/cmake-build-debug/CMakeFiles/test.dir/modules/bus_interface.cpp.o"
+  "/home/eli9/Desktop/ece598_quickIoT/modules/host_cpu.cpp" "/home/eli9/Desktop/ece598_quickIoT/cmake-build-debug/CMakeFiles/test.dir/modules/host_cpu.cpp.o"
+  "/home/eli9/Desktop/ece598_quickIoT/modules/sensors.cpp" "/home/eli9/Desktop/ece598_quickIoT/cmake-build-debug/CMakeFiles/test.dir/modules/sensors.cpp.o"
+  "/home/eli9/Desktop/ece598_quickIoT/simulation.cpp" "/home/eli9/Desktop/ece598_quickIoT/cmake-build-debug/CMakeFiles/test.dir/simulation.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
