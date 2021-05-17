@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/test.dir/simulation.cpp.o CMakeFiles/test.dir/modules/bus_interface.cpp.o CMakeFiles/test.dir/modules/host_cpu.cpp.o CMakeFiles/test.dir/modules/PIM.cpp.o CMakeFiles/test.dir/modules/sensors.cpp.o -o test  -lpthread 

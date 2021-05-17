@@ -1,0 +1,32 @@
+Simulation for QuickIoT 10 timestamps
+3
+1
+
+Simulation for QuickIoT 100 timestamps
+16
+6
+
+Simulation for QuickIoT 1000 timestamps
+127
+66
+
+Simulation for QuickIoT 10000 timestamps
+1231
+628
+
+Simulation for QuickIoT 100000 timestamps
+9628
+3349
+
+Simulation for QuickIoT 1000000 timestamps
+71049
+33594
+
+Simulation for QuickIoT 10000000 timestamps
+689063
+339342
+
+Simulation for QuickIoT 100000000 timestamps
+6766832
+3397034
+
